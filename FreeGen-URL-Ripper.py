@@ -1,3 +1,8 @@
+# Use Link Grabber Chrome extensio to get the links from Freegen
+# Save urls as text file
+
+# python <pythonfile.py> <urls.txt> <output-file-name.csv>
+
 import requests
 from requests.adapters import HTTPAdapter
 from requests.packages.urllib3.util.retry import Retry
