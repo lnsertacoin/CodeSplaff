@@ -1,0 +1,18 @@
+i {
+   position: relative;
+   top: -5px; 
+   right: 0px;
+   font-size: 1.3rem;
+  }
+
+.number-overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.3); /* Semi-transparent overlay */
+    color: white;
+    padding: 2px 0;
+    font-size: 0.7rem;
+    font-family: monospace ;
+}
